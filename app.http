@@ -1,0 +1,7 @@
+POST http://localhost:3000/login
+
+###
+Get http://localhost:3000/customer
+
+###
+Get http://localhost:3000/subjects
